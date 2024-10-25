@@ -3,7 +3,7 @@ Hi there, my name is Taksh and I am from 🇨🇱 <br><br>
 🌐 Let's Connect: <br>
 Open to exciting remote opportunities that align with my skill set and passion for leveraging technology to drive business success.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/)]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/)
 <br>
 ## About me
 - Full Stack Data Scientist, UNSW Sydney Alumni
